@@ -12,7 +12,7 @@
         android:theme="@style/Theme.CompassApp">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBknZDBLoJI1K6CrFVYiDVYxXCdPvU43lA"/>
+            android:value="AIzaSyDqOFKx6y1JMLdIuSs5uwyCMUl0JyLIBCo"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"

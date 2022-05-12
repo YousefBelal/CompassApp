@@ -59,7 +59,7 @@ class MainActivity : ComponentActivity() {
                             .fillMaxSize()
                             .background(color = Color.Black)
                     ) {
-                        start_sheet2()
+                        mainB()
 
                     }
                 }
